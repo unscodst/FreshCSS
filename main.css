@@ -1,0 +1,35 @@
+body {
+    background: #c6ff8d;
+}
+
+.content {
+    background: #8dd3ff;
+    color: #d88500;
+}
+
+p {
+    background: #d67bff;
+    color: white;
+}
+
+
+#khelink {
+    color: orange;
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 2.0em;
+    
+}
+
+.khedrinks {
+    color: purple;
+    
+}
+
+div ol b{
+    color: green;
+}
+
+div ol s{
+    color: red;
+}
