@@ -21,10 +21,20 @@ p {
     
 }
 
+#khelink:hover {
+    color: red;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 3.0em;
+    
+}
+
 .khedrinks {
     color: purple;
     
 }
+
+
 
 div ol b{
     color: green;
@@ -33,3 +43,4 @@ div ol b{
 div ol s{
     color: red;
 }
+
